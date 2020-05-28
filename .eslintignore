@@ -1,2 +1,5 @@
 # Ignore webpack config
 webpack.dev.js
+
+# Ignore bundle.js
+bundle.js
